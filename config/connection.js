@@ -11,7 +11,7 @@ else {
         password: 'GWcode',
         database: 'burgers_db'
     });
-}
+};
 
 
 connection.connect();
